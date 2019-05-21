@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\bin\Debug\GDI_Tchasi.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\bin\Debug\GDI_Tchasi.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\bin\Debug\GDI_Tchasi.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.pdb
