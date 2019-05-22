@@ -7,3 +7,13 @@ D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tc
 D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.csproj.GenerateResource.Cache
 D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.exe
 D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\bin\Debug\GDI_Tchasi.exe.config
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\bin\Debug\GDI_Tchasi.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\bin\Debug\GDI_Tchasi.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.Form1.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.Properties.Resources.resources
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.csproj.GenerateResource.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\WinForms\GDI_Tchasi\GDI_Tchasi\GDI_Tchasi\obj\Debug\GDI_Tchasi.pdb
